@@ -1,0 +1,7 @@
+interface:
+  display_name: "King 主题生成 AI 课件"
+  short_description: "从单个主题生成录播AI课程的讲师手卡和飞书学员讲义"
+  default_prompt: "Use $king-topic-to-ai-courseware to turn this topic into a recorded AI course package with teacher notes and a Feishu student handout."
+
+policy:
+  allow_implicit_invocation: true
